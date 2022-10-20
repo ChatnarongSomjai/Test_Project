@@ -1,0 +1,47 @@
+html,body{
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+
+}
+.top-footer{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+.menu{
+    color: white;
+    padding: 15;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.screen{
+    background-color: rgb(115, 216, 241);
+    padding: 25px;
+    margin: 30px;
+}
+.image{
+    width: 40%;
+    display: block;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+}
+.button{
+    color: crimson;   
+    background-color: gold;
+    display: inline-block;
+    width: auto;
+    margin-left:45% ;
+   
+
+}
+
+.bottom-footer{
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+  

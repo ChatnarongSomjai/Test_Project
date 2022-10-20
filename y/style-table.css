@@ -1,0 +1,16 @@
+table,th,td{
+    border: 1px rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+.frame-color{
+        align-content: center;
+        background-color: rgb(115, 216, 241);
+        border: 1px black;
+        border-style:groove ;
+        margin: auto;
+}
+
+
